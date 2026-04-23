@@ -39,9 +39,9 @@ Thumbs.db
 
 # ─── Misc ─────────────────────────────────────────────────────────────────────
 *.log
-.env
 dist/
 build/
 # Playwright
 playwright-report/
 test-results/
+config.bat
